@@ -145,6 +145,7 @@
     <ClCompile Include="01_hello_SDL\01_hello_SDL.cpp" />
     <ClCompile Include="03_event_driven_programming\03_event_driven_programming.cpp" />
     <ClCompile Include="04_key_presses\04_key_presses.cpp" />
+    <ClCompile Include="05_optimized_surface_loading_and_soft_stretching\05_optimized_surface_loading_and_soft_stretching.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
